@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone,
+
+I plan to learn more about web-development. CSS and Java Script first, wish me luck!
